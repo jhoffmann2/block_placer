@@ -1,6 +1,6 @@
 scoreboard players tag @s add displaying_all_slots 
 scoreboard players tag @s remove displaying_hotbar 
-tellraw @a ["",{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n------ Block List ------\n","bold":true},{"text":"[ Update With Inventory  ]","color":"gold","clickEvent":{"action":"run_command","value":"/execute @s ~ ~ ~ function block_placer:tellraw/toggleBlocks/update_with_inventory"},"bold":false}]function block_placer:tellraw/toggleBlocks/slots/slot-1
+tellraw @s ["",{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n------ Block List ------\n","bold":true},{"text":"[ Update With Inventory  ]","color":"gold","clickEvent":{"action":"run_command","value":"/execute @s ~ ~ ~ function block_placer:tellraw/toggleBlocks/update_with_inventory"},"bold":false}]function block_placer:tellraw/toggleBlocks/slots/slot-1
 function block_placer:tellraw/toggleBlocks/slots/slot0
 function block_placer:tellraw/toggleBlocks/slots/slot1
 function block_placer:tellraw/toggleBlocks/slots/slot2
@@ -37,4 +37,4 @@ function block_placer:tellraw/toggleBlocks/slots/slot32
 function block_placer:tellraw/toggleBlocks/slots/slot33
 function block_placer:tellraw/toggleBlocks/slots/slot34
 function block_placer:tellraw/toggleBlocks/slots/slot35
-tellraw @a ["",{"text":"----------------------","bold":true}]
+tellraw @s ["",{"text":"----------------------","bold":true}]
