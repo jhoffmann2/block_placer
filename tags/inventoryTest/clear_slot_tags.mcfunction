@@ -6,7 +6,7 @@ scoreboard players tag @s remove DioriteInSlot0
 scoreboard players tag @s remove PolishedDioriteInSlot0 
 scoreboard players tag @s remove AndesiteInSlot0 
 scoreboard players tag @s remove PolishedAndesiteInSlot0 
-scoreboard players tag @s remove GrassInSlot0 
+scoreboard players tag @s remove GrassBlockInSlot0 
 scoreboard players tag @s remove DirtInSlot0 
 scoreboard players tag @s remove CoarseDirtInSlot0 
 scoreboard players tag @s remove PodzolInSlot0 
@@ -447,7 +447,7 @@ scoreboard players tag @s remove DioriteInSlot1
 scoreboard players tag @s remove PolishedDioriteInSlot1 
 scoreboard players tag @s remove AndesiteInSlot1 
 scoreboard players tag @s remove PolishedAndesiteInSlot1 
-scoreboard players tag @s remove GrassInSlot1 
+scoreboard players tag @s remove GrassBlockInSlot1 
 scoreboard players tag @s remove DirtInSlot1 
 scoreboard players tag @s remove CoarseDirtInSlot1 
 scoreboard players tag @s remove PodzolInSlot1 
@@ -888,7 +888,7 @@ scoreboard players tag @s remove DioriteInSlot2
 scoreboard players tag @s remove PolishedDioriteInSlot2 
 scoreboard players tag @s remove AndesiteInSlot2 
 scoreboard players tag @s remove PolishedAndesiteInSlot2 
-scoreboard players tag @s remove GrassInSlot2 
+scoreboard players tag @s remove GrassBlockInSlot2 
 scoreboard players tag @s remove DirtInSlot2 
 scoreboard players tag @s remove CoarseDirtInSlot2 
 scoreboard players tag @s remove PodzolInSlot2 
@@ -1329,7 +1329,7 @@ scoreboard players tag @s remove DioriteInSlot3
 scoreboard players tag @s remove PolishedDioriteInSlot3 
 scoreboard players tag @s remove AndesiteInSlot3 
 scoreboard players tag @s remove PolishedAndesiteInSlot3 
-scoreboard players tag @s remove GrassInSlot3 
+scoreboard players tag @s remove GrassBlockInSlot3 
 scoreboard players tag @s remove DirtInSlot3 
 scoreboard players tag @s remove CoarseDirtInSlot3 
 scoreboard players tag @s remove PodzolInSlot3 
@@ -1770,7 +1770,7 @@ scoreboard players tag @s remove DioriteInSlot4
 scoreboard players tag @s remove PolishedDioriteInSlot4 
 scoreboard players tag @s remove AndesiteInSlot4 
 scoreboard players tag @s remove PolishedAndesiteInSlot4 
-scoreboard players tag @s remove GrassInSlot4 
+scoreboard players tag @s remove GrassBlockInSlot4 
 scoreboard players tag @s remove DirtInSlot4 
 scoreboard players tag @s remove CoarseDirtInSlot4 
 scoreboard players tag @s remove PodzolInSlot4 
@@ -2211,7 +2211,7 @@ scoreboard players tag @s remove DioriteInSlot5
 scoreboard players tag @s remove PolishedDioriteInSlot5 
 scoreboard players tag @s remove AndesiteInSlot5 
 scoreboard players tag @s remove PolishedAndesiteInSlot5 
-scoreboard players tag @s remove GrassInSlot5 
+scoreboard players tag @s remove GrassBlockInSlot5 
 scoreboard players tag @s remove DirtInSlot5 
 scoreboard players tag @s remove CoarseDirtInSlot5 
 scoreboard players tag @s remove PodzolInSlot5 
@@ -2652,7 +2652,7 @@ scoreboard players tag @s remove DioriteInSlot6
 scoreboard players tag @s remove PolishedDioriteInSlot6 
 scoreboard players tag @s remove AndesiteInSlot6 
 scoreboard players tag @s remove PolishedAndesiteInSlot6 
-scoreboard players tag @s remove GrassInSlot6 
+scoreboard players tag @s remove GrassBlockInSlot6 
 scoreboard players tag @s remove DirtInSlot6 
 scoreboard players tag @s remove CoarseDirtInSlot6 
 scoreboard players tag @s remove PodzolInSlot6 
@@ -3093,7 +3093,7 @@ scoreboard players tag @s remove DioriteInSlot7
 scoreboard players tag @s remove PolishedDioriteInSlot7 
 scoreboard players tag @s remove AndesiteInSlot7 
 scoreboard players tag @s remove PolishedAndesiteInSlot7 
-scoreboard players tag @s remove GrassInSlot7 
+scoreboard players tag @s remove GrassBlockInSlot7 
 scoreboard players tag @s remove DirtInSlot7 
 scoreboard players tag @s remove CoarseDirtInSlot7 
 scoreboard players tag @s remove PodzolInSlot7 
@@ -3534,7 +3534,7 @@ scoreboard players tag @s remove DioriteInSlot8
 scoreboard players tag @s remove PolishedDioriteInSlot8 
 scoreboard players tag @s remove AndesiteInSlot8 
 scoreboard players tag @s remove PolishedAndesiteInSlot8 
-scoreboard players tag @s remove GrassInSlot8 
+scoreboard players tag @s remove GrassBlockInSlot8 
 scoreboard players tag @s remove DirtInSlot8 
 scoreboard players tag @s remove CoarseDirtInSlot8 
 scoreboard players tag @s remove PodzolInSlot8 
@@ -3975,7 +3975,7 @@ scoreboard players tag @s remove DioriteInSlot9
 scoreboard players tag @s remove PolishedDioriteInSlot9 
 scoreboard players tag @s remove AndesiteInSlot9 
 scoreboard players tag @s remove PolishedAndesiteInSlot9 
-scoreboard players tag @s remove GrassInSlot9 
+scoreboard players tag @s remove GrassBlockInSlot9 
 scoreboard players tag @s remove DirtInSlot9 
 scoreboard players tag @s remove CoarseDirtInSlot9 
 scoreboard players tag @s remove PodzolInSlot9 
@@ -4416,7 +4416,7 @@ scoreboard players tag @s remove DioriteInSlot10
 scoreboard players tag @s remove PolishedDioriteInSlot10 
 scoreboard players tag @s remove AndesiteInSlot10 
 scoreboard players tag @s remove PolishedAndesiteInSlot10 
-scoreboard players tag @s remove GrassInSlot10 
+scoreboard players tag @s remove GrassBlockInSlot10 
 scoreboard players tag @s remove DirtInSlot10 
 scoreboard players tag @s remove CoarseDirtInSlot10 
 scoreboard players tag @s remove PodzolInSlot10 
@@ -4857,7 +4857,7 @@ scoreboard players tag @s remove DioriteInSlot11
 scoreboard players tag @s remove PolishedDioriteInSlot11 
 scoreboard players tag @s remove AndesiteInSlot11 
 scoreboard players tag @s remove PolishedAndesiteInSlot11 
-scoreboard players tag @s remove GrassInSlot11 
+scoreboard players tag @s remove GrassBlockInSlot11 
 scoreboard players tag @s remove DirtInSlot11 
 scoreboard players tag @s remove CoarseDirtInSlot11 
 scoreboard players tag @s remove PodzolInSlot11 
@@ -5298,7 +5298,7 @@ scoreboard players tag @s remove DioriteInSlot12
 scoreboard players tag @s remove PolishedDioriteInSlot12 
 scoreboard players tag @s remove AndesiteInSlot12 
 scoreboard players tag @s remove PolishedAndesiteInSlot12 
-scoreboard players tag @s remove GrassInSlot12 
+scoreboard players tag @s remove GrassBlockInSlot12 
 scoreboard players tag @s remove DirtInSlot12 
 scoreboard players tag @s remove CoarseDirtInSlot12 
 scoreboard players tag @s remove PodzolInSlot12 
@@ -5739,7 +5739,7 @@ scoreboard players tag @s remove DioriteInSlot13
 scoreboard players tag @s remove PolishedDioriteInSlot13 
 scoreboard players tag @s remove AndesiteInSlot13 
 scoreboard players tag @s remove PolishedAndesiteInSlot13 
-scoreboard players tag @s remove GrassInSlot13 
+scoreboard players tag @s remove GrassBlockInSlot13 
 scoreboard players tag @s remove DirtInSlot13 
 scoreboard players tag @s remove CoarseDirtInSlot13 
 scoreboard players tag @s remove PodzolInSlot13 
@@ -6180,7 +6180,7 @@ scoreboard players tag @s remove DioriteInSlot14
 scoreboard players tag @s remove PolishedDioriteInSlot14 
 scoreboard players tag @s remove AndesiteInSlot14 
 scoreboard players tag @s remove PolishedAndesiteInSlot14 
-scoreboard players tag @s remove GrassInSlot14 
+scoreboard players tag @s remove GrassBlockInSlot14 
 scoreboard players tag @s remove DirtInSlot14 
 scoreboard players tag @s remove CoarseDirtInSlot14 
 scoreboard players tag @s remove PodzolInSlot14 
@@ -6621,7 +6621,7 @@ scoreboard players tag @s remove DioriteInSlot15
 scoreboard players tag @s remove PolishedDioriteInSlot15 
 scoreboard players tag @s remove AndesiteInSlot15 
 scoreboard players tag @s remove PolishedAndesiteInSlot15 
-scoreboard players tag @s remove GrassInSlot15 
+scoreboard players tag @s remove GrassBlockInSlot15 
 scoreboard players tag @s remove DirtInSlot15 
 scoreboard players tag @s remove CoarseDirtInSlot15 
 scoreboard players tag @s remove PodzolInSlot15 
@@ -7062,7 +7062,7 @@ scoreboard players tag @s remove DioriteInSlot16
 scoreboard players tag @s remove PolishedDioriteInSlot16 
 scoreboard players tag @s remove AndesiteInSlot16 
 scoreboard players tag @s remove PolishedAndesiteInSlot16 
-scoreboard players tag @s remove GrassInSlot16 
+scoreboard players tag @s remove GrassBlockInSlot16 
 scoreboard players tag @s remove DirtInSlot16 
 scoreboard players tag @s remove CoarseDirtInSlot16 
 scoreboard players tag @s remove PodzolInSlot16 
@@ -7503,7 +7503,7 @@ scoreboard players tag @s remove DioriteInSlot17
 scoreboard players tag @s remove PolishedDioriteInSlot17 
 scoreboard players tag @s remove AndesiteInSlot17 
 scoreboard players tag @s remove PolishedAndesiteInSlot17 
-scoreboard players tag @s remove GrassInSlot17 
+scoreboard players tag @s remove GrassBlockInSlot17 
 scoreboard players tag @s remove DirtInSlot17 
 scoreboard players tag @s remove CoarseDirtInSlot17 
 scoreboard players tag @s remove PodzolInSlot17 
@@ -7944,7 +7944,7 @@ scoreboard players tag @s remove DioriteInSlot18
 scoreboard players tag @s remove PolishedDioriteInSlot18 
 scoreboard players tag @s remove AndesiteInSlot18 
 scoreboard players tag @s remove PolishedAndesiteInSlot18 
-scoreboard players tag @s remove GrassInSlot18 
+scoreboard players tag @s remove GrassBlockInSlot18 
 scoreboard players tag @s remove DirtInSlot18 
 scoreboard players tag @s remove CoarseDirtInSlot18 
 scoreboard players tag @s remove PodzolInSlot18 
@@ -8385,7 +8385,7 @@ scoreboard players tag @s remove DioriteInSlot19
 scoreboard players tag @s remove PolishedDioriteInSlot19 
 scoreboard players tag @s remove AndesiteInSlot19 
 scoreboard players tag @s remove PolishedAndesiteInSlot19 
-scoreboard players tag @s remove GrassInSlot19 
+scoreboard players tag @s remove GrassBlockInSlot19 
 scoreboard players tag @s remove DirtInSlot19 
 scoreboard players tag @s remove CoarseDirtInSlot19 
 scoreboard players tag @s remove PodzolInSlot19 
@@ -8826,7 +8826,7 @@ scoreboard players tag @s remove DioriteInSlot20
 scoreboard players tag @s remove PolishedDioriteInSlot20 
 scoreboard players tag @s remove AndesiteInSlot20 
 scoreboard players tag @s remove PolishedAndesiteInSlot20 
-scoreboard players tag @s remove GrassInSlot20 
+scoreboard players tag @s remove GrassBlockInSlot20 
 scoreboard players tag @s remove DirtInSlot20 
 scoreboard players tag @s remove CoarseDirtInSlot20 
 scoreboard players tag @s remove PodzolInSlot20 
@@ -9267,7 +9267,7 @@ scoreboard players tag @s remove DioriteInSlot21
 scoreboard players tag @s remove PolishedDioriteInSlot21 
 scoreboard players tag @s remove AndesiteInSlot21 
 scoreboard players tag @s remove PolishedAndesiteInSlot21 
-scoreboard players tag @s remove GrassInSlot21 
+scoreboard players tag @s remove GrassBlockInSlot21 
 scoreboard players tag @s remove DirtInSlot21 
 scoreboard players tag @s remove CoarseDirtInSlot21 
 scoreboard players tag @s remove PodzolInSlot21 
@@ -9708,7 +9708,7 @@ scoreboard players tag @s remove DioriteInSlot22
 scoreboard players tag @s remove PolishedDioriteInSlot22 
 scoreboard players tag @s remove AndesiteInSlot22 
 scoreboard players tag @s remove PolishedAndesiteInSlot22 
-scoreboard players tag @s remove GrassInSlot22 
+scoreboard players tag @s remove GrassBlockInSlot22 
 scoreboard players tag @s remove DirtInSlot22 
 scoreboard players tag @s remove CoarseDirtInSlot22 
 scoreboard players tag @s remove PodzolInSlot22 
@@ -10149,7 +10149,7 @@ scoreboard players tag @s remove DioriteInSlot23
 scoreboard players tag @s remove PolishedDioriteInSlot23 
 scoreboard players tag @s remove AndesiteInSlot23 
 scoreboard players tag @s remove PolishedAndesiteInSlot23 
-scoreboard players tag @s remove GrassInSlot23 
+scoreboard players tag @s remove GrassBlockInSlot23 
 scoreboard players tag @s remove DirtInSlot23 
 scoreboard players tag @s remove CoarseDirtInSlot23 
 scoreboard players tag @s remove PodzolInSlot23 
@@ -10590,7 +10590,7 @@ scoreboard players tag @s remove DioriteInSlot24
 scoreboard players tag @s remove PolishedDioriteInSlot24 
 scoreboard players tag @s remove AndesiteInSlot24 
 scoreboard players tag @s remove PolishedAndesiteInSlot24 
-scoreboard players tag @s remove GrassInSlot24 
+scoreboard players tag @s remove GrassBlockInSlot24 
 scoreboard players tag @s remove DirtInSlot24 
 scoreboard players tag @s remove CoarseDirtInSlot24 
 scoreboard players tag @s remove PodzolInSlot24 
@@ -11031,7 +11031,7 @@ scoreboard players tag @s remove DioriteInSlot25
 scoreboard players tag @s remove PolishedDioriteInSlot25 
 scoreboard players tag @s remove AndesiteInSlot25 
 scoreboard players tag @s remove PolishedAndesiteInSlot25 
-scoreboard players tag @s remove GrassInSlot25 
+scoreboard players tag @s remove GrassBlockInSlot25 
 scoreboard players tag @s remove DirtInSlot25 
 scoreboard players tag @s remove CoarseDirtInSlot25 
 scoreboard players tag @s remove PodzolInSlot25 
@@ -11472,7 +11472,7 @@ scoreboard players tag @s remove DioriteInSlot26
 scoreboard players tag @s remove PolishedDioriteInSlot26 
 scoreboard players tag @s remove AndesiteInSlot26 
 scoreboard players tag @s remove PolishedAndesiteInSlot26 
-scoreboard players tag @s remove GrassInSlot26 
+scoreboard players tag @s remove GrassBlockInSlot26 
 scoreboard players tag @s remove DirtInSlot26 
 scoreboard players tag @s remove CoarseDirtInSlot26 
 scoreboard players tag @s remove PodzolInSlot26 
@@ -11913,7 +11913,7 @@ scoreboard players tag @s remove DioriteInSlot27
 scoreboard players tag @s remove PolishedDioriteInSlot27 
 scoreboard players tag @s remove AndesiteInSlot27 
 scoreboard players tag @s remove PolishedAndesiteInSlot27 
-scoreboard players tag @s remove GrassInSlot27 
+scoreboard players tag @s remove GrassBlockInSlot27 
 scoreboard players tag @s remove DirtInSlot27 
 scoreboard players tag @s remove CoarseDirtInSlot27 
 scoreboard players tag @s remove PodzolInSlot27 
@@ -12354,7 +12354,7 @@ scoreboard players tag @s remove DioriteInSlot28
 scoreboard players tag @s remove PolishedDioriteInSlot28 
 scoreboard players tag @s remove AndesiteInSlot28 
 scoreboard players tag @s remove PolishedAndesiteInSlot28 
-scoreboard players tag @s remove GrassInSlot28 
+scoreboard players tag @s remove GrassBlockInSlot28 
 scoreboard players tag @s remove DirtInSlot28 
 scoreboard players tag @s remove CoarseDirtInSlot28 
 scoreboard players tag @s remove PodzolInSlot28 
@@ -12795,7 +12795,7 @@ scoreboard players tag @s remove DioriteInSlot29
 scoreboard players tag @s remove PolishedDioriteInSlot29 
 scoreboard players tag @s remove AndesiteInSlot29 
 scoreboard players tag @s remove PolishedAndesiteInSlot29 
-scoreboard players tag @s remove GrassInSlot29 
+scoreboard players tag @s remove GrassBlockInSlot29 
 scoreboard players tag @s remove DirtInSlot29 
 scoreboard players tag @s remove CoarseDirtInSlot29 
 scoreboard players tag @s remove PodzolInSlot29 
@@ -13236,7 +13236,7 @@ scoreboard players tag @s remove DioriteInSlot30
 scoreboard players tag @s remove PolishedDioriteInSlot30 
 scoreboard players tag @s remove AndesiteInSlot30 
 scoreboard players tag @s remove PolishedAndesiteInSlot30 
-scoreboard players tag @s remove GrassInSlot30 
+scoreboard players tag @s remove GrassBlockInSlot30 
 scoreboard players tag @s remove DirtInSlot30 
 scoreboard players tag @s remove CoarseDirtInSlot30 
 scoreboard players tag @s remove PodzolInSlot30 
@@ -13677,7 +13677,7 @@ scoreboard players tag @s remove DioriteInSlot31
 scoreboard players tag @s remove PolishedDioriteInSlot31 
 scoreboard players tag @s remove AndesiteInSlot31 
 scoreboard players tag @s remove PolishedAndesiteInSlot31 
-scoreboard players tag @s remove GrassInSlot31 
+scoreboard players tag @s remove GrassBlockInSlot31 
 scoreboard players tag @s remove DirtInSlot31 
 scoreboard players tag @s remove CoarseDirtInSlot31 
 scoreboard players tag @s remove PodzolInSlot31 
@@ -14118,7 +14118,7 @@ scoreboard players tag @s remove DioriteInSlot32
 scoreboard players tag @s remove PolishedDioriteInSlot32 
 scoreboard players tag @s remove AndesiteInSlot32 
 scoreboard players tag @s remove PolishedAndesiteInSlot32 
-scoreboard players tag @s remove GrassInSlot32 
+scoreboard players tag @s remove GrassBlockInSlot32 
 scoreboard players tag @s remove DirtInSlot32 
 scoreboard players tag @s remove CoarseDirtInSlot32 
 scoreboard players tag @s remove PodzolInSlot32 
@@ -14559,7 +14559,7 @@ scoreboard players tag @s remove DioriteInSlot33
 scoreboard players tag @s remove PolishedDioriteInSlot33 
 scoreboard players tag @s remove AndesiteInSlot33 
 scoreboard players tag @s remove PolishedAndesiteInSlot33 
-scoreboard players tag @s remove GrassInSlot33 
+scoreboard players tag @s remove GrassBlockInSlot33 
 scoreboard players tag @s remove DirtInSlot33 
 scoreboard players tag @s remove CoarseDirtInSlot33 
 scoreboard players tag @s remove PodzolInSlot33 
@@ -15000,7 +15000,7 @@ scoreboard players tag @s remove DioriteInSlot34
 scoreboard players tag @s remove PolishedDioriteInSlot34 
 scoreboard players tag @s remove AndesiteInSlot34 
 scoreboard players tag @s remove PolishedAndesiteInSlot34 
-scoreboard players tag @s remove GrassInSlot34 
+scoreboard players tag @s remove GrassBlockInSlot34 
 scoreboard players tag @s remove DirtInSlot34 
 scoreboard players tag @s remove CoarseDirtInSlot34 
 scoreboard players tag @s remove PodzolInSlot34 
@@ -15441,7 +15441,7 @@ scoreboard players tag @s remove DioriteInSlot35
 scoreboard players tag @s remove PolishedDioriteInSlot35 
 scoreboard players tag @s remove AndesiteInSlot35 
 scoreboard players tag @s remove PolishedAndesiteInSlot35 
-scoreboard players tag @s remove GrassInSlot35 
+scoreboard players tag @s remove GrassBlockInSlot35 
 scoreboard players tag @s remove DirtInSlot35 
 scoreboard players tag @s remove CoarseDirtInSlot35 
 scoreboard players tag @s remove PodzolInSlot35 

@@ -1,0 +1,9 @@
+scoreboard players tag @s remove Slot0IsLootBlock 
+scoreboard players tag @s remove Slot1IsLootBlock 
+scoreboard players tag @s remove Slot2IsLootBlock 
+scoreboard players tag @s remove Slot3IsLootBlock 
+scoreboard players tag @s remove Slot4IsLootBlock 
+scoreboard players tag @s remove Slot5IsLootBlock 
+scoreboard players tag @s remove Slot6IsLootBlock 
+scoreboard players tag @s remove Slot7IsLootBlock 
+scoreboard players tag @s remove Slot8IsLootBlock 
