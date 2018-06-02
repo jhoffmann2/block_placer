@@ -11,21 +11,6 @@ scoreboard objectives add PABStep dummy
 scoreboard players add @e[name=editor,type=armor_stand] PABStep 0
 scoreboard players add @e[name=editor,type=armor_stand] PABStep 1
 
-#### Will be added to UI, just for now... #######################
-
-scoreboard players set block1PlacementRate controls 70
-scoreboard players set block2PlacementRate controls 70
-scoreboard players set block3PlacementRate controls 70
-scoreboard players set block4PlacementRate controls 70
-scoreboard players set block5PlacementRate controls 70
-scoreboard players set block6PlacementRate controls 70
-scoreboard players set block7PlacementRate controls 70
-scoreboard players set block8PlacementRate controls 70
-scoreboard players set block9PlacementRate controls 70
-scoreboard players set block10PlacementRate controls 70
-
-#############################################################
-
 execute @e[name=editor,type=armor_stand,score_PABStep=1,score_PABStep_min=1] ~ ~ ~ scoreboard objectives add placeBlockNum dummy
 
 execute @e[name=editor,type=armor_stand,score_PABStep=1,score_PABStep_min=1] ~ ~ ~ function dungeon_genorator:block_placer/create/rPlaceBlocks
