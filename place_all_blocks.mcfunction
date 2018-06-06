@@ -12,6 +12,7 @@ scoreboard players add @e[name=editor,type=armor_stand] PABStep 0
 scoreboard players add @e[name=editor,type=armor_stand] PABStep 1
 
 execute @e[name=editor,type=armor_stand,score_PABStep=1,score_PABStep_min=1] ~ ~ ~ scoreboard objectives add placeBlockNum dummy
+scoreboard objectives setdisplay sidebar placeBlockNum
 
 execute @e[name=editor,type=armor_stand,score_PABStep=1,score_PABStep_min=1] ~ ~ ~ function dungeon_genorator:block_placer/create/rPlaceBlocks
 execute @e[name=editor,type=armor_stand,score_PABStep=1,score_PABStep_min=1] ~ ~ ~ scoreboard players tag @r[type=armor_stand,name=rPlaceBlock,tag=block1] add selected
@@ -53,9 +54,10 @@ execute @e[name=editor,type=armor_stand,score_PABStep=10,score_PABStep_min=10] ~
 execute @e[name=editor,type=armor_stand,score_PABStep=10,score_PABStep_min=10] ~ ~ ~ execute @e[tag=random_block] ~ ~ ~ scoreboard players tag @e[name=editor,type=armor_stand] add continue
 execute @e[name=editor,type=armor_stand,score_PABStep=10,score_PABStep_min=10] ~ ~ ~ execute @e[name=editor,type=armor_stand,tag=!continue] ~ ~ ~ scoreboard objectives remove placeBlockNum
 execute @e[name=editor,type=armor_stand,score_PABStep=10,score_PABStep_min=10] ~ ~ ~ scoreboard players tag @e[name=editor,type=armor_stand] remove continue
-
-execute @r[type=armor_stand,tag=random_block] ~ ~ ~ scoreboard players tag @e[name=editor,type=armor_stand] add repeat4
-execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ execute @a[tag=ui7] ~ ~ ~ function dungeon_genorator:tellraw/build_functions
-execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ execute @a[tag=!ui7] ~ ~ ~ function dungeon_genorator:tellraw/random_blocks
-execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ scoreboard objectives remove placeBlockNum
 execute @e[name=editor,type=armor_stand,score_PABStep_min=10] ~ ~ ~ scoreboard objectives remove PABStep
+
+execute @e[type=armor_stand,tag=random_block] ~ ~ ~ scoreboard players tag @e[name=editor,type=armor_stand] add repeat4
+execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ execute @a[tag=ui7] ~ ~ ~ function dungeon_genorator:tellraw/build_functions
+execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ scoreboard objectives remove placeBlockNum
+execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ scoreboard players tag @a remove loading
+execute @e[name=editor,type=armor_stand,tag=!repeat4] ~ ~ ~ say done loading place_all_blocks
