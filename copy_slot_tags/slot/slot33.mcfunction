@@ -134,6 +134,7 @@ execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=CreeperMonsterSpawnerInSlot33]
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=EndermanMonsterSpawnerInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add EndermanMonsterSpawnerInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=WitchMonsterSpawnerInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add WitchMonsterSpawnerInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=VindicationIllagerMonsterSpawnerInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add VindicationIllagerMonsterSpawnerInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=evocationIllagerMonsterSpawnerInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add evocationIllagerMonsterSpawnerInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=IllusionIllagerMonsterSpawnerInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add IllusionIllagerMonsterSpawnerInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=ArmorStandMonsterSpawnerInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add ArmorStandMonsterSpawnerInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=OakWoodStairsInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add OakWoodStairsInSlot33 
@@ -257,6 +258,19 @@ execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=BeaconInSlot33] ~ ~ ~ scoreboa
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=CobblestoneWallInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add CobblestoneWallInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=MossyCobblestoneWallInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add MossyCobblestoneWallInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=FlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add FlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=CactusFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add CactusFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=DandelionFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add DandelionFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=PoppyFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add PoppyFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=BlueOrchidFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add BlueOrchidFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=AlliumFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add AlliumFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=AzureBluetFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add AzureBluetFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=RedTulipFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add RedTulipFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=OrangeTulipFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add OrangeTulipFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=WhiteTulipFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add WhiteTulipFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=PinkTulipFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add PinkTulipFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=OxeyeDaisyFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add OxeyeDaisyFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=BrownMushroomFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add BrownMushroomFlowerPotInSlot33 
+execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=RedMushroomFlowerPotInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add RedMushroomFlowerPotInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=CarrotsInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add CarrotsInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=PotatoesInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add PotatoesInSlot33 
 execute @e[tag=copySlotTags] ~ ~ ~ execute @s[tag=WoodenButtonInSlot33] ~ ~ ~ scoreboard players tag @e[tag=pasteSlotTags] add WoodenButtonInSlot33 
